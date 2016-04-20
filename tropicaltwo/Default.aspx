@@ -3,10 +3,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <!-- Basic -->
-    <title>Andaman Honeymoon Tour Package</title>
+    <title>Andaman nicobar honeymoon Package</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta name="description" content="Looking for andaman honeymoon package ? We provide custom made romantic honeymoon packages which include candle light dinner and water sports adventures" />
+    <meta name="description" content="Looking for andaman honeymoon package ? We provide custom made romantic Andaman honeymoon packages which include candle light dinner and water sports adventures." />
     <meta name="author" content="Andaman Honeymoons" />
     <link rel="stylesheet" href="Content/bootstrap.min.css" type="text/css" media="screen" />
     <link rel="stylesheet" href="Content/font-awesome.min.css" type="text/css" media="screen" />
@@ -15,17 +15,9 @@
     <link rel="stylesheet" type="text/css" href="Content/style.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="Content/responsive.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="Content/colors/red.css" title="red" media="screen" />
-    <link rel="stylesheet" type="text/css" href="Content/colors/jade.css" title="jade" media="screen" />
-    <link rel="stylesheet" type="text/css" href="Content/colors/blue.css" title="blue" media="screen" />
-    <link rel="stylesheet" type="text/css" href="Content/colors/beige.css" title="beige" media="screen" />
-    <link rel="stylesheet" type="text/css" href="Content/colors/cyan.css" title="cyan" media="screen" />
-    <link rel="stylesheet" type="text/css" href="Content/colors/green.css" title="green" media="screen" />
-    <link rel="stylesheet" type="text/css" href="Content/colors/orange.css" title="orange" media="screen" />
-    <link rel="stylesheet" type="text/css" href="Content/colors/peach.css" title="peach" media="screen" />
     <link rel="stylesheet" type="text/css" href="Content/colors/pink.css" title="pink" media="screen" />
     <link rel="stylesheet" type="text/css" href="Content/colors/purple.css" title="purple" media="screen" />
     <link rel="stylesheet" type="text/css" href="Content/colors/sky-blue.css" title="sky-blue" media="screen" />
-    <link rel="stylesheet" type="text/css" href="Content/colors/yellow.css" title="yellow" media="screen" />
     <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
     <script type="text/javascript" src="Scripts/jquery-2.1.4.min.js"></script>
     <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
